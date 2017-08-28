@@ -10,6 +10,9 @@ short-description: A real-time chat room SPA built using AngularJS & Google's Fi
 ![]({{ site.baseurl }}/assets/bloc-chat/laptop.png)
 ![]({{ site.baseurl }}/assets/bloc-chat/mobile-small.png)
 
+### BlocChat Demo
+AngularJS, JavaScript, Firebase, Bootstrap CSS
+
 ### Project
 
 Angular is a JavaScript framework used to build single-page web applications that allow the user to dynamically interact with the application. Using Angular along with Google's Firebase to handle the back-end, was the perfect solution to create a responsive chat room prototype.
