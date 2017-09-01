@@ -6,6 +6,7 @@ title: Newbie to Newbie - Dependency Injection
 This is the first post in a series called Newbie to Newbie where I try to highlight new topics I have recently learned or struggled with and explain them to other newbies like me. My goal is to highlight these topics in an approachable way in as simple terms as possible. So if you're an experienced coder, sorry you are not my target audience. This is not intended to be an all encompassing delve into the nitty gritty details.  But rather an intro for newbies like me who just want to know what the heck people are talking about at a high level.
 
 So let’s take a look at Dependency Injection. Don’t worry it’s not as painful as it sounds.
+
 {:.center}
 ![]({{ site.baseurl }}/assets/blog-posts/injection.png)
 
@@ -45,6 +46,6 @@ function HomeCtrl(Room, Message) {
 }
 {% endhighlight %}
 
-Here is dependency injection at work: Room & Message are services that are injected or passed into the home controller function. The Room and Message services are housed in their own JS files and contain their own logic. But since that they are passed into HomeCtrl they are available to the home controller for use with out home control having to contain their respective logic. 
+Here is dependency injection at work: Room & Message are services that are injected or passed into the home controller function. The Room and Message services are housed in their own JS files and contain their own logic. But since that they are passed into HomeCtrl they are available to the home controller for use with out home control having to contain their respective logic.
 
 See I told you Dependency Injection is not as painful as it sounds. Dependency injection is a prevalent feature of the AngularJS architecture and the concept is a little more detailed than what I have presented here. For further documentation on AngularJS’s dependency injection system refer to the [developer guide](https://docs.angularjs.org/guide/di). I hope this article was helpful in introducing this important topic. If you have other topics you would like me to discuss feel free to contact me and in the message just reference the Newbie to Newbie series.
