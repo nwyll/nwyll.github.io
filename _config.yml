@@ -6,12 +6,12 @@ url: "http://nataliewyll.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Natalie Wyll #name
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "A personal web development portfolio." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Fledgling Software Developer</h1>
-     <p>Learning the ins & outs of JavaScript, AngularJS, and  Rails.</p>
+     <h1>Software Developer</h1>
+     <p>I'm a full-stack developer specializing in JavaScript, ReactJS, and Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -27,7 +27,7 @@ theme_settings:
   github: nwyll
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/natalie-wyll/
   pinterest:
   reddit:
   soundcloud:
