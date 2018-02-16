@@ -7,7 +7,7 @@ short-description: Bloccit is a Reddit replica where users can sign up, create, 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/assets/bloccit/post.jpg)
+![]({{ site.baseurl }}/assets/bloccit/post.png)
 
 {:.center}
 ### [View Project](https://github.com/nwyll/bloccit)

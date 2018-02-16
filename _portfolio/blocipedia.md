@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "assets/blocipedia/wikis.jpg"
+thumbnail-path: "assets/blocipedia/wikis.png"
 short-description: Blocipedia is Ruby on Rails app where users can create Markdown-based wikis.
 
 ---
