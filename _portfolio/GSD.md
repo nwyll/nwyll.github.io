@@ -10,7 +10,7 @@ short-description: GSD is a productivity tool built with ReactJS.
 ![]({{ site.baseurl }}/assets/GSD/start_task.gif)
 
 {:.center}
-![]({{ site.baseurl }}/assets/GSD/break_time.jpg)
+![]({{ site.baseurl }}/assets/GSD/break_time.png)
 
 {:.center}
 ### [View Project](https://github.com/nwyll/gsd)
